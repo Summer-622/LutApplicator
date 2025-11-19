@@ -1,0 +1,7 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-4.2/Modules/FindJPEG.cmake
+C:/Program Files/CMake/share/cmake-4.2/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-4.2/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-4.2/Modules/SelectLibraryConfigurations.cmake
+D:/myApp/LutApplicator/LutApplicator/CMakeLists.txt
+D:/vcpkg/vcpkg/installed/x64-windows/share/jpeg/vcpkg-cmake-wrapper.cmake

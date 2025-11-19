@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/myApp/LutApplicator/build/cmake_install.cmake",
+		"D:/myApp/LutApplicator/build/LutApplicator/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
